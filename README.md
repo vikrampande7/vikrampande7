@@ -22,5 +22,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### 📊 Stats
-
-![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikrampande7&show_icons=true&theme=gruvbox)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vikrampande7&show_icons=true&include_all_commits=true&theme=shadow_red&hide_border=true" alt="Vikram's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikrampande7&layout=compact&theme=shadow_red&hide_border=true" /></a> |
+| ------------- | ------------- |
