@@ -5,10 +5,11 @@
 - 🌱 I’m currently exploring the field of Computer Vision. My research interests are Computer Vision and Natural Language Processing i.e. the fusion of Language and Vision.
 - 📫 You can follow me here on GitHub. You can find me on [LinkedIn](https://www.linkedin.com/in/vikrampande7/)
 
+<!--
   <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=vikrampande7&style=flat-square&color=blue" alt=""/>
   </div>
-
+-->
 <!--
 ### Languages and Tools: 
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
