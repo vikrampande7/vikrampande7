@@ -4,7 +4,7 @@
 ### 👋 Hi, I’m Vikram. (@vikrampande7)
 - I am a graduate student at North Carolina State University in Electrical and Computer Engineering with a focus on Machine Learning and Computer Vision.
 - 👀 I’m interested in Artificial Intelligence , Data Science.
-- 🌱 I’m currently exploring the field of Computer Vision. My research interests are Computer Vision and Natural Language Processing i.e. the fusion of Language and Vision.
+- 🌱 I’m currently exploring the field of Computer Vision. My research interests are Computer Vision and Natural Language Processing i.e. Unifying Language and Vision models.
 - 📫 You can follow me here on GitHub. You can find me on [LinkedIn](https://www.linkedin.com/in/vikrampande7/)
 
 <!--
